@@ -1,6 +1,8 @@
 ---
 icon: hand-wave
-coverY: 0
+cover: .gitbook/assets/pravila.png
+coverY: -60.630872483221474
+coverHeight: 507
 layout:
   width: default
   cover:
@@ -18,12 +20,12 @@ layout:
     visible: true
   metadata:
     visible: true
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/
+  tags:
+    visible: true
+metaLinks: {}
 ---
 
-# Правила Гражданских оперций Moscow RP
+# Правила Гражданских операций Moscow RP
 
 {% hint style="danger" %}
 Эти правила являются действующими и обязательны для соблюдения каждым игроком.
