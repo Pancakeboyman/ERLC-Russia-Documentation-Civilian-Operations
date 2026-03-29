@@ -80,7 +80,7 @@ metaLinks:
 #### A8 — Неофициальной ОПГ считается любая группа лиц от двух человек, имеющая собственную форму (униформу, знаки отличия) и носящая при себе оружие, а также совершающая любые противоправные действия. Наличие таких групп противоречит правилам.
 
 {% hint style="info" %}
-<mark style="color:red;">К</mark> <mark style="color:red;"></mark><mark style="color:red;">**неофициальным**</mark> <mark style="color:red;"></mark><mark style="color:red;">ОПГ также относятся:</mark> любые ЧВК и неофициальные охранные организации.
+<mark style="color:red;">К</mark> <mark style="color:red;"></mark><mark style="color:red;">**неофициальным ОПГ**</mark> <mark style="color:red;"></mark><mark style="color:red;">также относятся:</mark> любые ЧВК и неофициальные охранные организации.
 {% endhint %}
 
 <br>
